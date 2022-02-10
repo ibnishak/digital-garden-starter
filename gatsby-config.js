@@ -1,4 +1,9 @@
 module.exports = {
+  siteMetadata: {
+    title: `DryMind`,
+    siteUrl: `https://ibnishak.github.io/digital-garden/`,
+    description: `Thoughts, notes and views`,
+  },
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
