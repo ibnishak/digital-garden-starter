@@ -1,6 +1,5 @@
 #!/usr/bin/env zsh
 
-
 SOURCE="/path/to/markdown/folder"
 
 # Sync files from source folder to target.
@@ -19,7 +18,3 @@ done
 echo "Starting build"
 gatsby build
 
-#Git update
-git add public/*
-git commit -m $(date)
-git subtree push --prefix public origin gh-pages
