@@ -1,17 +1,17 @@
 {
-  "name": "new",
+  "name": "digital-garden-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template Repo for digital garden starter",
   "main": "gatsby-config.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "scripts": {},
+  "keywords": [
+    "digital-garden",
+    "gatsby"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "AGPL-3.0",
   "dependencies": {
     "gatsby": "^2.32.13",
-    "gatsby-theme-garden": "https://github.com/ibnishak/digital-garden-theme.git",
-    "install-peers": "^1.0.3"
+    "gatsby-theme-garden": "https://github.com/ibnishak/digital-garden-theme.git"
   }
 }
