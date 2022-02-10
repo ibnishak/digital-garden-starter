@@ -1,6 +1,7 @@
 # Staring a new blog
 
 TODO: Update and explain this starter
+TODO: See if zsh scripts can be done in nodejs
 
 1. Fork this repo
 2. Clone it to your laptop
